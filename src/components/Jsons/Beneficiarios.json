@@ -1,0 +1,7 @@
+{
+  "Beneficiarios":["BIFAM","CRIT","Hogar de la niña Casimira Arteaga", "Ciudad de los Niños"],
+  "BIFAM":["El Encino","Colegio Marista","Iglesia Calpulli"],
+  "Hogar de la niña Casimira Arteaga": ["https://g.co/kgs/ct4qyF","https://g.co/kgs/5m4awf", "https://g.co/kgs/pyDH62","https://g.co/kgs/aYSbBm", "https://g.co/kgs/miYzBR"],
+  "Ciudad de los Niños": ["Iglesia Calpulli", "Parroquia Nuestra Señora del Rosario de Fátima","Colegio Marista","El Encino", "Instituto Mendel"],
+  "CRIT": ["Iglesia Calpulli", "Parroquia Nuestra Señora del Rosario de Fátima"]
+}

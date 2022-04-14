@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Mi primera página web!</title>
+</head>
+
+<body> bgcolor="#000000"text="#561216">
+<p>Hola!bienvenido a mi primera página web
+"<body> </body>"Indica la parte del cuerpo del contenido de un documento HTML. 
+Etiqueta indica donde empieza el contenido visible del documento.
+"<head></head>"La parte superior del documento HTML, indica metadatos: título del documento, hojas de estilos, javaScript, CSS…
+"<p></p>"Etiqueta que nos sirve para agrupar texto dentro de un parágrafo; contenido más fácil de leer y organizado.</p>
+ </body>
+</html>
